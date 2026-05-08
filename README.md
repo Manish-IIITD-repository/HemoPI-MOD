@@ -1,6 +1,6 @@
 # HemoPImod: Predicting Hemolytic Potency of Chemically Modified Peptides
 
-Welcome to the official documentation for **HemoPImod**, a systematic computational tool developed to predict the hemolytic potency of chemically and structurally modified peptides. [cite_start]While several tools exist for natural peptides, HemoPImod is the first of its kind specifically designed to handle modified sequences by utilizing structural features and chemical descriptors[cite: 561, 588].
+Welcome to the official documentation for **HemoPImod**, a systematic computational tool developed to predict the hemolytic potency of chemically and structurally modified peptides. While several tools exist for natural peptides, HemoPImod is the first of its kind specifically designed to handle modified sequences by utilizing structural features and chemical descriptors.
 
 **Web Server:** [http://webs.iiitd.edu.in/raghava/hemopimod/](http://webs.iiitd.edu.in/raghava/hemopimod/)
 
@@ -10,13 +10,13 @@ Welcome to the official documentation for **HemoPImod**, a systematic computatio
 
 Kumar, V., Kumar, R., Agrawal, P., Patiyal, S., & Raghava, G. P. S. (2020). 
 **A Method for Predicting Hemolytic Potency of Chemically Modified Peptides From Its Structure.** *Frontiers in Pharmacology*, 11:54. 
-[cite_start][https://doi.org/10.3389/fphar.2020.00054](https://doi.org/10.3389/fphar.2020.00054) 
+[https://doi.org/10.3389/fphar.2020.00054](https://doi.org/10.3389/fphar.2020.00054) 
 
 ---
 
 ## About the Platform
 
-Peptide-based therapeutics are often modified to improve solubility, increase half-life, and decrease hemolysis.HemoPImod facilitates this drug-era advancement by providing a machine-learning framework to evaluate the toxicity of these modified molecules based on their 3D structures[cite: 563, 573].
+Peptide-based therapeutics are often modified to improve solubility, increase half-life, and decrease hemolysis.HemoPImod facilitates this drug-era advancement by providing a machine-learning framework to evaluate the toxicity of these modified molecules based on their 3D structures.
 
 
 ### Mechanism of Action
@@ -72,4 +72,4 @@ Department of Computational Biology, Indraprastha Institute of Information Techn
 
 ## License
 
-[cite_start]This project is an open-access resource distributed under the terms of the **Creative Commons Attribution License (CC BY)**[cite: 902].
+This project is an open-access resource distributed under the terms of the **Creative Commons Attribution License (CC BY)**.
