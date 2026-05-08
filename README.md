@@ -11,6 +11,7 @@ Welcome to the official documentation for **HemoPImod**, a systematic computatio
 Kumar, V., Kumar, R., Agrawal, P., Patiyal, S., & Raghava, G. P. S. (2020). 
 **A Method for Predicting Hemolytic Potency of Chemically Modified Peptides From Its Structure.** *Frontiers in Pharmacology*, 11:54. 
 [https://doi.org/10.3389/fphar.2020.00054](https://doi.org/10.3389/fphar.2020.00054) 
+(https://doi.org/10.5281/zenodo.20079972)
 
 ---
 
